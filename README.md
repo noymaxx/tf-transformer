@@ -22,7 +22,7 @@ Implementação compacta de um **Transformer** para tradução **Português → 
 
 ---
 
-## 🗂 Estrutura Sugerida do Repositório
+## 🗂 Estrutura
 
 ```
 .
