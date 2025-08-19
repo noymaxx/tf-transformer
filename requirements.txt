@@ -1,0 +1,17 @@
+# Core ML stack
+tensorflow==2.16.1
+# tensorflow-text wheels may be unavailable on Windows; it's optional in the notebook
+tensorflow-text==2.16.1 ; platform_system != "Windows"
+
+# Data & evaluation
+tensorflow-datasets>=4.9.4
+sacrebleu
+
+# Utilities
+numpy
+matplotlib
+
+# Notebook tooling
+jupyter
+ipykernel
+nbconvert
