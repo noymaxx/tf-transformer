@@ -1,4 +1,4 @@
-# Transformer PT→EN com TensorFlow — Notebook em 3 Steps
+# Transformer PT→EN com TensorFlow 
 
 Implementação compacta de um **Transformer** para tradução **Português → Inglês**, inspirada no tutorial oficial do TensorFlow Text. 
 
@@ -22,7 +22,7 @@ Implementação compacta de um **Transformer** para tradução **Português → 
 
 ---
 
-## 🗂 Estrutura Sugerida do Repositório
+## 🗂 Estrutura
 
 ```
 .
